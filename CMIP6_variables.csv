@@ -1,0 +1,50 @@
+Climate variables,var,Monthly,project,Daily (if ISMIP6),domain
+Surface Air Temperature                             ,tas,Amon,GeoMIP,,Amon
+precipitation,pr,Amon,GeoMIP,,Amon
+atmospheric moisture content                  ,huss,Amon,GeoMIP,,Amon
+evaporation,eow,,LS3MIP,Eday,Eday
+Maximum Temperature                              ,tasmax,Amon,GeoMIP,,Amon
+Mnimum Temperature                                ,tasmin,Amon,GeoMIP,,Amon
+Sea Surface Temperature ,tos,Omon,GeoMIP,,Omon
+Heavy Precipitation                                      ,prhmax,,DCPP,Eday,Eday
+Near Surface Wind Speed,vas,Amon,GeoMIP,,Amon
+Near Surface Wind Speed,uas,Amon,GeoMIP,,Amon
+Near Surface Wind Speed,sfcWind,Amon,ScenarioMIP,day,Amon
+Max near-surface wind speed,sfcWindmax,Emon,ScenarioMIP,day,Emon
+Sea level change                                           ,zostoga,Omon,GeoMIP,,Omon
+Ocean Heat Content,hfds,Omon,ISMIP6,Odec,Omon
+Surface Ocean pH ,phos,Omon,GeoMIP,,Omon
+Surface Ocean Salinity                                 ,sos,Omon,GeoMIP,Oday,Omon
+Sea Ice Extent,siextentn,,GeoMIP,,SImon
+Sea Ice Extent,siextents,"SImon (that's an uppercase i, not lowercase L)",GeoMIP,,SImon
+Sea ice concentration                                 ,siconc,"SImon (that's an uppercase i, not lowercase L)",GeoMIP,SIday,SImon
+Glaciers mass changes                                ,acabf-icem,LImon,ISMIP6,only monthly frequency available,LImon
+Ice Sheet Mass Changes                             ,acabfls- icemls,LImon,ISMIP6,only monthly frequency available,LImon
+Snow Cover Extent                                      ,snw,LImon,GeoMIP,day,LImon
+Snowpack extent                                         ,dsn,,LS3MIP,Eday,Eday
+Permafrost Extent/thickness,tpf,LImon,GeoMIP,,LImon
+Atmospheric concentrstion of aerosols,conccn,Emon,GeoMIP,,Emon
+Net primary productivity,npp,Lmon,GeoMIP,,Lmon
+Gross primary productivity,gpp,Lmon,ISMIP6,E3hr (works with ScenarioMIP but not ISMIP6),Lmon
+Change in surface water storage,dsw,,LS3MIP,Eday,Eday
+Wet bulb potential temperature,wbptemp,,CMIP,6hrPlevPt,6hrPlevPt
+Aragonite concentration,arag,Omon,CMIP,,Omon
+Leaf area index,laiLut,Amon,GeoMIP,,Amon
+Relative humidity,hurs,Amon,GeoMIP,,Amon
+Max relative humidity,hursmax,Amon,GeoMIP,day,Amon
+Min relative humidity,hursmin,Amon,GeoMIP,day,Amon
+Evapotranspiration,evspsbl,Amon,GeoMIP,,Amon
+Aerosol optical depth at 550 nm,od550aer,AERmon,GeoMIP,,AERmon
+Total soil moisture content,mrso,Lmon,GeoMIP,day,Lmon
+TOA outgoing longwave flux,rlut,Amon,CMIP,,Amon
+Surface net downward longwave flux,rls,Amon,CMIP,,Amon
+Surface net downward shortwave flux,rss,Amon,CMIP,,Amon
+TOA outgoing shortwave flux,rsut,Amon,CMIP,,Amon
+Surface upwelling shortwave flux in air,rsus,Amon,CMIP,,Amon
+Surface upwelling longwave flux in air,rlus,Amon,CMIP,,Amon
+Surface downwelling shortwave flux in air,rsds,Amon,CMIP,,Amon
+Surface downwelling longwave flux in air,rlds,Amon,CMIP,,Amon
+Net downward shortwave flux,rss,Amon,CMIP,,Amon
+Net downward longwave flux,rls,Amon,CMIP,,Amon
+permafrost temperature,tsl,Lmon,ScenarioMIP,,Lmon
+surface air pressure ,ps,Amon,ScenarioMIP,,Amon
